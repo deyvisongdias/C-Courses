@@ -1,0 +1,8 @@
+C:\Users\Deyvison\Desktop\C#\Seção 9\Seção 9 - Execicio 2\Seção 9 - Execicio 2\bin\Debug\Seção 9 - Execicio 2.exe.config
+C:\Users\Deyvison\Desktop\C#\Seção 9\Seção 9 - Execicio 2\Seção 9 - Execicio 2\bin\Debug\Seção 9 - Execicio 2.exe
+C:\Users\Deyvison\Desktop\C#\Seção 9\Seção 9 - Execicio 2\Seção 9 - Execicio 2\bin\Debug\Seção 9 - Execicio 2.pdb
+C:\Users\Deyvison\Desktop\C#\Seção 9\Seção 9 - Execicio 2\Seção 9 - Execicio 2\obj\Debug\Seção 9 - Execicio 2.csproj.AssemblyReference.cache
+C:\Users\Deyvison\Desktop\C#\Seção 9\Seção 9 - Execicio 2\Seção 9 - Execicio 2\obj\Debug\Seção 9 - Execicio 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyvison\Desktop\C#\Seção 9\Seção 9 - Execicio 2\Seção 9 - Execicio 2\obj\Debug\Seção 9 - Execicio 2.csproj.CoreCompileInputs.cache
+C:\Users\Deyvison\Desktop\C#\Seção 9\Seção 9 - Execicio 2\Seção 9 - Execicio 2\obj\Debug\Seção 9 - Execicio 2.exe
+C:\Users\Deyvison\Desktop\C#\Seção 9\Seção 9 - Execicio 2\Seção 9 - Execicio 2\obj\Debug\Seção 9 - Execicio 2.pdb

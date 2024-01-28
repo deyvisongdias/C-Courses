@@ -1,0 +1,8 @@
+C:\Users\Deyvison\Desktop\C#\Seção 10 - Exercicio resolvido\Seção 10 - Exercicio resolvido\bin\Debug\Seção 10 - Exercicio resolvido.exe.config
+C:\Users\Deyvison\Desktop\C#\Seção 10 - Exercicio resolvido\Seção 10 - Exercicio resolvido\bin\Debug\Seção 10 - Exercicio resolvido.exe
+C:\Users\Deyvison\Desktop\C#\Seção 10 - Exercicio resolvido\Seção 10 - Exercicio resolvido\bin\Debug\Seção 10 - Exercicio resolvido.pdb
+C:\Users\Deyvison\Desktop\C#\Seção 10 - Exercicio resolvido\Seção 10 - Exercicio resolvido\obj\Debug\Seção 10 - Exercicio resolvido.csproj.AssemblyReference.cache
+C:\Users\Deyvison\Desktop\C#\Seção 10 - Exercicio resolvido\Seção 10 - Exercicio resolvido\obj\Debug\Seção 10 - Exercicio resolvido.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyvison\Desktop\C#\Seção 10 - Exercicio resolvido\Seção 10 - Exercicio resolvido\obj\Debug\Seção 10 - Exercicio resolvido.csproj.CoreCompileInputs.cache
+C:\Users\Deyvison\Desktop\C#\Seção 10 - Exercicio resolvido\Seção 10 - Exercicio resolvido\obj\Debug\Seção 10 - Exercicio resolvido.exe
+C:\Users\Deyvison\Desktop\C#\Seção 10 - Exercicio resolvido\Seção 10 - Exercicio resolvido\obj\Debug\Seção 10 - Exercicio resolvido.pdb

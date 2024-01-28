@@ -1,0 +1,8 @@
+C:\Users\Deyvison\Desktop\C#\Seção 10\Seção 10 - Classes Abstratas\Seção 10 - Classes Abstratas\bin\Debug\Seção 10 - Classes Abstratas.exe.config
+C:\Users\Deyvison\Desktop\C#\Seção 10\Seção 10 - Classes Abstratas\Seção 10 - Classes Abstratas\bin\Debug\Seção 10 - Classes Abstratas.exe
+C:\Users\Deyvison\Desktop\C#\Seção 10\Seção 10 - Classes Abstratas\Seção 10 - Classes Abstratas\bin\Debug\Seção 10 - Classes Abstratas.pdb
+C:\Users\Deyvison\Desktop\C#\Seção 10\Seção 10 - Classes Abstratas\Seção 10 - Classes Abstratas\obj\Debug\Seção 10 - Classes Abstratas.csproj.AssemblyReference.cache
+C:\Users\Deyvison\Desktop\C#\Seção 10\Seção 10 - Classes Abstratas\Seção 10 - Classes Abstratas\obj\Debug\Seção 10 - Classes Abstratas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deyvison\Desktop\C#\Seção 10\Seção 10 - Classes Abstratas\Seção 10 - Classes Abstratas\obj\Debug\Seção 10 - Classes Abstratas.csproj.CoreCompileInputs.cache
+C:\Users\Deyvison\Desktop\C#\Seção 10\Seção 10 - Classes Abstratas\Seção 10 - Classes Abstratas\obj\Debug\Seção 10 - Classes Abstratas.exe
+C:\Users\Deyvison\Desktop\C#\Seção 10\Seção 10 - Classes Abstratas\Seção 10 - Classes Abstratas\obj\Debug\Seção 10 - Classes Abstratas.pdb
